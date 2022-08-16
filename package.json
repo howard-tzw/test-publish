@@ -1,5 +1,5 @@
 {
-  "name": "test-publish",
+  "name": "test-publish-www",
   "version": "1.0.0",
   "description": "A simple test",
   "main": "./src/index.js",
