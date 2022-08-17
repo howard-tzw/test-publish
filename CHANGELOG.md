@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/howard-tzw/test-publish/compare/v1.0.0...v1.1.0) (2022-08-17)
+
+
+### Features
+
+* try release ([d140abb](https://github.com/howard-tzw/test-publish/commit/d140abbf2d674c3eeb396617652f5581e4e23622))
+
 # 1.0.0 (2022-08-17)
 
 
