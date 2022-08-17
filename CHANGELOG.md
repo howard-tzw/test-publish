@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/howard-tzw/test-publish/compare/v1.1.0...v1.1.1) (2022-08-17)
+
+
+### Bug Fixes
+
+* add @semantic-release/github ([c22fafd](https://github.com/howard-tzw/test-publish/commit/c22fafd35cdfd250ebff0a2ac2eae389043ef501))
+
 # [1.1.0](https://github.com/howard-tzw/test-publish/compare/v1.0.0...v1.1.0) (2022-08-17)
 
 
