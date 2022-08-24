@@ -28,6 +28,6 @@ export default {
     return n1 / n2
   },
   helloWorld: () => {
-    console.log('hello world release patch')
+    console.log('hello world release magor')
   },
 }
