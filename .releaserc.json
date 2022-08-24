@@ -1,7 +1,14 @@
 {
   "branches": ["main"],
   "plugins": [
-    "@semantic-release/commit-analyzer",
+    ["@semantic-release/commit-analyzer", {
+      "releaseRules": [
+        {"type": "release", "scope":"pre", "release": "prerelease"},
+        {"type": "release", "scope":"patch", "release": "patch"},
+        {"type": "release", "scope":"minor", "release": "minor"},
+        {"type": "release", "scope":"major", "release": "major"}
+      ]
+    }],
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     "@semantic-release/npm",
