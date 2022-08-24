@@ -1,6 +1,6 @@
 {
   "name": "test-publish-www",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A simple test",
   "main": "./src/index.js",
   "license": "MIT",
