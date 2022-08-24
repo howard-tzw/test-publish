@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/howard-tzw/test-publish/compare/v1.1.1...v1.2.0) (2022-08-24)
+
+
+### Features
+
+* custom release rules ([69163fe](https://github.com/howard-tzw/test-publish/commit/69163feee3310aa3ea2d578b8ef2b370b4eff769))
+
 ## [1.1.1](https://github.com/howard-tzw/test-publish/compare/v1.1.0...v1.1.1) (2022-08-17)
 
 
